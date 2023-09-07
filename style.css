@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+}
+.homtxt{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  color:rgb(255, 255, 255);
+}
+.favimg {
+  padding: 5px;
+}
+.navbar {
+  background-color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+.hstack{
+  padding-top: 80px;
+}
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cards {
+  display: grid;
+  margin: 20px;
+}
+.card {
+  margin: 25px;
+  cursor: pointer;
+}
+.middlecard{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.hstack{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.iconhome{
+  width: 100px;
+  padding-right: 60px;
+  cursor: pointer;
+}
+.vermais{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+padding: 50px;
+}
+.vermaisbutt{
+  background-color: rgb(0, 0, 0);
+  font-size: 50px;
+  width: 1000px;
+  height: 90px;
+  color: white;
+  border-radius: 10px;
+
+}
+.vermaisbutt:hover{
+  background-color: rgb(228, 228, 228);
+  color: rgb(0, 0, 0);
+
+}
+
+.shotter{
+  background-color: rgb(0, 0, 0);
+  
+}
+.itensho{
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shottlogo{
+  width: 200px;
+  margin: 20px;
+  cursor: pointer;
+}
+.iten2{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.iten2-2{
+  color: white;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
